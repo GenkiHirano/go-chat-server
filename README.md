@@ -1,3 +1,3 @@
 # 概要
 
-- Go で WebSocket を使いチャットサーバー構築
+- Go, Gin, WebSocket を使いチャットサーバー構築
